@@ -1,2 +1,2 @@
-## Calculadora hecha en JAVA
-Calculadora simple realizada en DAM.
+# Calculadora hecha en JAVA
+*Calculadora simple realizada en DAM.*
