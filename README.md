@@ -1,2 +1,2 @@
 # Java-Projects
-*Este repositorio contiene muchos proyectos JAVA realizados por mi.*
+*Este repositorio contiene proyectos en JAVA realizados por mi.*
